@@ -18,10 +18,10 @@ pip install -e .
 ```
 
 ## MODEL
-The model can be downloaded in [HuggingFace](https://drive.google.com/file/d/1c0BXEuDy8Cmm2jfN0YYGkQxFZd2ZIoLg/view). 
+The SLaVA-CXR model can be downloaded in [HuggingFace](https://drive.google.com/file/d/1c0BXEuDy8Cmm2jfN0YYGkQxFZd2ZIoLg/view). 
 
 ## Train
-The training codes and base_checkpoints are made available. The training datasets are currently not available.
+The training codes is made available. The training datasets are currently not available.
 
 ## Evaluation
 Evaluation dataset can be any chest X-ray frontal view image paired with a report.  
