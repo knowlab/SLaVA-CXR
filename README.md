@@ -18,7 +18,7 @@ pip install -e .
 ```
 
 ## MODEL
-The SLaVA-CXR model can be downloaded in [HuggingFace](https://drive.google.com/file/d/1c0BXEuDy8Cmm2jfN0YYGkQxFZd2ZIoLg/view). 
+The SLaVA-CXR model can be downloaded in [HuggingFace](https://huggingface.co/bluesky333/SLaVA-CXR). 
 
 ## Train
 The training codes is made available. The training datasets are currently not available.
