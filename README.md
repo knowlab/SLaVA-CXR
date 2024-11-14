@@ -2,12 +2,6 @@
 
 **SLaVA-CXR: Small Language and Vision Assistant for Chest X-ray Report Automation** [[Paper](https://arxiv.org/abs/2409.13321)] <br>
 
-## Contents
-- [Install](#install)
-- [LLaVA-Phi Weights](#llava-weights)
-- [Train](#train)
-- [Evaluation](#evaluation)
-
 ## Environment
 
 ```Shell
